@@ -1,0 +1,11 @@
+.videos {
+background-color: rgba(223, 180, 127, 0.555);
+height: 100%;
+width: 100%;
+scroll-snap-align: start;
+position: relative;
+}
+
+.video__player {
+
+}
